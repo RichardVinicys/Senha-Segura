@@ -19,7 +19,7 @@ Este projeto tem como objetivo avaliar a força de uma senha, comparando-a com u
 
 1. **Clone o repositório**:
     ```bash
-    git clone https://github.com/usuário/senha-segura.git
+    git clone https://github.com/RichardVinicys/Senha-Segura.git
     ```
 
 2. **Abra o arquivo `index.html`** no seu navegador preferido.
